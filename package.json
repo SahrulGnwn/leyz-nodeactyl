@@ -1,0 +1,22 @@
+{
+  "name": "leyz-nodeactyl",
+  "version": "1.0.0",
+  "description": "a fork of nodeactyl",
+  "main": "src/Nodeactyl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahrulGnwn/leyz-nodeactyl.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SahrulGnwn/leyz-nodeactyl/issues"
+  },
+  "homepage": "https://github.com/SahrulGnwn/leyz-nodeactyl#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
