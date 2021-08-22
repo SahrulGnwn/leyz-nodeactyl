@@ -1,5 +1,5 @@
 {
-  "name": "leyz-nodeactyl",
+  "name": "leyzdactyl",
   "version": "1.0.0",
   "description": "a fork of nodeactyl",
   "main": "src/Nodeactyl.js",
